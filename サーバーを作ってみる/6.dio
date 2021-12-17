@@ -1,0 +1,52 @@
+<mxfile host="65bd71144e">
+    <diagram id="W0XUWkqofdUrXlrvMeZo" name="ページ1">
+        <mxGraphModel dx="508" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="1～１０２３&lt;br&gt;Well-known port&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="65" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="50" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="1024以降なら使える" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="120" width="130" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="ポート番号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="10" width="80" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="65536まで" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="165" y="120" width="70" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=none;html=1;" parent="1" source="7" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="ループバックアドレス" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="25" y="200" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="127.0.0.1" style="whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="255" y="180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="自分自身を表すアドレス" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="85" y="230" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="コマンドプロンプトの待ち受け&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="55" y="320" width="180" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="ctrl + Cで解除" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="115" y="350" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="SeverSocetのacceptメソッドはクライアントから要求があるとSocketのインスタンスを返す" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="390" width="510" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="430" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="ServerSocketクラス&lt;br&gt;&lt;br&gt;ポート番号を指定する&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="95" width="140" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
